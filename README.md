@@ -15,6 +15,8 @@ Additionally, this GPT is adept at handling complex coding queries and can provi
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Boot Programmer](https://github.com/sourceduty/Boot_Programmer)
+<br>
+[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
